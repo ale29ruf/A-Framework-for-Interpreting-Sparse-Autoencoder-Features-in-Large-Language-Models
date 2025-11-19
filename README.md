@@ -7,7 +7,8 @@ The notebook demonstrates how to:
 - Generate human-interpretable explanations for features  
 - Modify activations by amplifying or clamping individual latent dimensions  
 - Observe downstream effects on model outputs  
-- Use framework Delphi, token-change-based and vocabulary-projection-based explanations to infer the meaning of features  
+- Use framework Delphi, token-change-based and vocabulary-projection-based explanations to infer the meaning of features
+- **Evaluate the quality of feature explanations through metrics**
 
 The notebook is fully annotated and intended as an educational resource for understanding mechanistic interpretability workflows with SAEs.
 

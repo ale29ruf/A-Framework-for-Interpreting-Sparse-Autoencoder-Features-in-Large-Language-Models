@@ -14,6 +14,26 @@ The notebook is fully annotated and intended as an educational resource for unde
 
 ---
 
+## **📚 Additional Notebooks and Experiments**
+
+This repository also includes (or refers to) several additional notebooks containing deeper experiments and extended analyses.  
+These complementary resources explore:
+
+- **Advanced explanation generation techniques**  
+  (alternative prompting strategies, comparison between explanation models, multi-view explanation synthesis)
+
+- **Feature steering experiments**  
+  (systematic activation amplification, suppression, causal interventions, and downstream behavioral effects)
+
+- **Extended evaluation metrics**  
+  (additional quantitative indicators, robustness checks, causal impact scores, cross-method consistency evaluations)
+
+These notebooks provide further insight into the interpretability pipeline and offer additional experimental material beyond the main workflow.
+
+If you are interested in accessing these supplementary notebooks, discussing the experiments, or exploring potential collaborations,  
+**feel free to contact me privately.**
+
+
 
 ## **📦 Requirements**
 

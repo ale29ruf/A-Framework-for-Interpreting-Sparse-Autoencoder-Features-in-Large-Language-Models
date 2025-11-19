@@ -1,4 +1,4 @@
-# **SAE Feature Interpretation and Activation Editing – Notebook**
+# **SAE Feature Interpretation and Steering – Notebook**
 
 This repository contains a commented Jupyter notebook designed to explore, interpret, and manipulate **Sparse Autoencoder (SAE)** features inside a Large Language Model.  
 The notebook demonstrates how to:

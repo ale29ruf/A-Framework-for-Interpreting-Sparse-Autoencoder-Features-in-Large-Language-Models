@@ -3,9 +3,9 @@
 This repository contains a commented Jupyter notebook designed to explore, interpret, and manipulate **Sparse Autoencoder (SAE)** features inside a Large Language Model.  
 The notebook demonstrates how to:
 
-- Inspect SAE latent vectors  
+- Inspect SAE latents  
 - Generate human-interpretable explanations for features  
-- Modify activations by amplifying or clamping individual latent dimensions  
+- Modify latent activations by amplifying or clamping
 - Observe downstream effects on model outputs  
 - Use framework Delphi, token-change-based and vocabulary-projection-based explanations to infer the meaning of features
 - **Evaluate the quality of feature explanations through metrics**
@@ -20,13 +20,10 @@ This repository also includes (or refers to) several additional notebooks contai
 These complementary resources explore:
 
 - **Advanced explanation generation techniques**  
-  (alternative prompting strategies, comparison between explanation models, multi-view explanation synthesis)
 
 - **Feature steering experiments**  
-  (systematic activation amplification, suppression, causal interventions, and downstream behavioral effects)
 
 - **Extended evaluation metrics**  
-  (additional quantitative indicators, robustness checks, causal impact scores, cross-method consistency evaluations)
 
 These notebooks provide further insight into the interpretability pipeline and offer additional experimental material beyond the main workflow.
 

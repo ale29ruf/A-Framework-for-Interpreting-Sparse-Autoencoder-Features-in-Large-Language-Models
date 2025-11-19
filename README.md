@@ -27,4 +27,4 @@ The notebook depends on the following libraries:
 3. **EleutherAI/sparsify**  
    Installable via pip:
    ```bash
-   pip install sparsify
+   pip install eai-sparsify

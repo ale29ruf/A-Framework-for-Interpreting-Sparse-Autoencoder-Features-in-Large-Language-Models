@@ -12,3 +12,19 @@ The notebook demonstrates how to:
 The notebook is fully annotated and intended as an educational resource for understanding mechanistic interpretability workflows with SAEs.
 
 ---
+
+
+## **📦 Requirements**
+
+The notebook depends on the following libraries:
+
+1. **sae_lens**  
+   GitHub: https://github.com/ale29ruf/sae_lens.git
+
+2. **EleutherAI/delphi**  
+   GitHub: https://github.com/godSaveDaniele/progetto_nlp_2.git
+
+3. **EleutherAI/sparsify**  
+   Installable via pip:
+   ```bash
+   pip install sparsify
